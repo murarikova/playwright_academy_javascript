@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tento text jsme vložili na lokálu
+=======
+Soubor zmenen na Github 
+>>>>>>> a4ab08e2dca3534be700d7a5350218192aad844e
